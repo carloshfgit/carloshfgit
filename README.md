@@ -25,38 +25,35 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 
 ### Desenvolvimento (Front-End & Mobile)
 <p align="left">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Zustand-orange?style=flat-square" alt="Zustand" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" alt="TanStack Query" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img align="center" alt="React" title="React" height="30px" width="40px" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
+  <img align="center" alt="Expo" title="Expo" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
+  <img align="center" alt="Next.js" title="Next.js" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="TanStack Query" title="TanStack Query" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/reactquery.svg">
+  <img align="center" alt="HTML5" title="HTML5" height="30px" width="40px" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
+  <img align="center" alt="CSS3" title="CSS3" height="30px" width="40px" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
 </p>
 
 ### Desenvolvimento (Back-End & Banco de Dados)
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PostGIS-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71105?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-  <img src="https://img.shields.io/badge/Pydantic-E25E5E?style=flat-square&logo=pydantic&logoColor=white" alt="Pydantic" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img align="center" alt="Python" title="Python" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="FastAPI" title="FastAPI" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30px" width="40px" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg">
+  <img align="center" alt="SQLAlchemy" title="SQLAlchemy" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
+  <img align="center" alt="Pydantic" title="Pydantic" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pydantic.svg">
+  <img align="center" alt="C" title="C" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="C++" title="C++" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </p>
 
 ### Infraestrutura, DevOps & Cloud
 <p align="left">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img align="center" alt="GCP" title="GCP" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Docker" title="Docker" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Firebase" title="Firebase" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <img align="center" alt="GitHub Actions" title="GitHub Actions" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
+  <img align="center" alt="Git" title="Git" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Linux" title="Linux" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </p>
 
 
