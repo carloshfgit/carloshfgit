@@ -15,7 +15,7 @@
 </p>
 
 ## Sobre Mim
-Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)** e entusiasta apaixonado por **Inteligência Artificial e Machine Learning**. Busco constantemente aplicar conceitos teóricos em projetos práticos, focando no desenvolvimento de sistemas robustos, preparação e análise de dados de alta qualidade e pipelines eficientes.
+Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)** e entusiasta por **Inteligência Artificial e Machine Learning**. Busco constantemente aplicar conceitos teóricos em projetos práticos, focando no desenvolvimento de sistemas robustos, preparação e análise de dados de alta qualidade e pipelines eficientes.
 
 * Cursando Bacharelado em Engenharia de Software na UnB.
 * Desenvolvedor do projeto **UDrive**, um marketplace completo conectando instrutores e alunos utilizando Python (FastAPI), Clean Architecture, Docker e IA.
