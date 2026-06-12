@@ -59,7 +59,7 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 
 ## Projeto em Destaque
 
-### **UDrive** — Plataforma SaaS & Marketplace
+### **UDrive** - Plataforma SaaS & Marketplace
 *Plataforma completa de marketplace conectando alunos a instrutores de direção, desenvolvida seguindo os princípios de Clean Architecture.*
 
 <p align="left">
