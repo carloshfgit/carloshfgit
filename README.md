@@ -77,3 +77,8 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 * **Infraestrutura Serverless:** Fluxos e tarefas assíncronas gerenciados de forma resiliente via **Google Cloud Tasks** (HTTP Push), reduzindo custos e complexidade operacional.
 
 ---
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloshfgit&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=carloshfgit&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+</div>
