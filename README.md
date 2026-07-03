@@ -55,11 +55,6 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
   <img align="center" alt="Linux" title="Linux" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloshfgit&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-</div>
-
 ## Projeto em Destaque
 
 ### **UDrive** - Plataforma SaaS & Marketplace
@@ -81,3 +76,7 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloshfgit&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+</div>
