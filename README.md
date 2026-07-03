@@ -14,17 +14,16 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloshfgit&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-</div>
-
 ## Sobre Mim
 Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)** e entusiasta por **Inteligência Artificial e Machine Learning**. Busco constantemente aplicar conceitos teóricos em projetos práticos, focando no desenvolvimento de sistemas robustos, preparação e análise de dados de alta qualidade e pipelines eficientes.
 
 * Cursando Bacharelado em Engenharia de Software na UnB.
 * Desenvolvedor do projeto **UDrive**, um marketplace completo conectando instrutores e alunos utilizando Python (FastAPI), Clean Architecture, Docker e IA.
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carloshfgit&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+</div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Stack
 
