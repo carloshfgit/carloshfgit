@@ -22,7 +22,7 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"/> Stack
 
-### Desenvolvimento (Front-End & Mobile)
+### Front-End & Mobile
 <p align="left">
   <img align="center" alt="React" title="React" height="30px" width="40px" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
   <img align="center" alt="Expo" title="Expo" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
@@ -34,7 +34,7 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
   <img align="center" alt="CSS3" title="CSS3" height="30px" width="40px" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
 </p>
 
-### Desenvolvimento (Back-End & Banco de Dados)
+### Back-End & Banco de Dados
 <p align="left">
   <img align="center" alt="Python" title="Python" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="FastAPI" title="FastAPI" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
