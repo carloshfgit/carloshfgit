@@ -24,43 +24,43 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 
 ### Front-End & Mobile
 <p align="left">
-  <img align="center" alt="React" title="React" height="30px" width="40px" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
-  <img align="center" alt="Expo" title="Expo" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
-  <img align="center" alt="Next.js" title="Next.js" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="TypeScript" title="TypeScript" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="TanStack Query" title="TanStack Query" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/reactquery.svg">
-  <img align="center" alt="HTML5" title="HTML5" height="30px" width="40px" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
-  <img align="center" alt="CSS3" title="CSS3" height="30px" width="40px" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
+  <img align="center" alt="React" title="React" height="45px" width="60px" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg">
+  <img align="center" alt="Expo" title="Expo" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg">
+  <img align="center" alt="Next.js" title="Next.js" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="TypeScript" title="TypeScript" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Tailwind CSS" title="Tailwind CSS" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="TanStack Query" title="TanStack Query" height="45px" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/reactquery.svg">
+  <img align="center" alt="HTML5" title="HTML5" height="45px" width="60px" src="https://devicon-website.vercel.app/api/html5/plain-wordmark.svg">
+  <img align="center" alt="CSS3" title="CSS3" height="45px" width="60px" src="https://devicon-website.vercel.app/api/css3/plain-wordmark.svg">
 </p>
 
 ### Back-End & Banco de Dados
 <p align="left">
-  <img align="center" alt="Python" title="Python" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img align="center" alt="FastAPI" title="FastAPI" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
-  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30px" width="40px" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg">
-  <img align="center" alt="SQLAlchemy" title="SQLAlchemy" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
-  <img align="center" alt="Pydantic" title="Pydantic" height="30px" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pydantic.svg">
-  <img align="center" alt="C" title="C" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="C++" title="C++" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Python" title="Python" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <img align="center" alt="FastAPI" title="FastAPI" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg">
+  <img align="center" alt="PostgreSQL" title="PostgreSQL" height="45px" width="60px" src="https://devicon-website.vercel.app/api/postgresql/original-wordmark.svg">
+  <img align="center" alt="SQLAlchemy" title="SQLAlchemy" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg">
+  <img align="center" alt="Pydantic" title="Pydantic" height="45px" width="60px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pydantic.svg">
+  <img align="center" alt="C" title="C" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="C++" title="C++" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </p>
 
 ### I.A, Machine Learning & Data Science
 <p align="left">
-  <img align="center" alt="PyTorch" title="PyTorch" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Pandas" title="Pandas" height="30px" width="40px" src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%23FFFFFF">
-  <img align="center" alt="Numpy" title="Numpy" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-  <img align="center" alt="OpenCV" title="OpenCV" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
+  <img align="center" alt="PyTorch" title="PyTorch" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Pandas" title="Pandas" height="45px" width="60px" src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%23FFFFFF">
+  <img align="center" alt="Numpy" title="Numpy" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="OpenCV" title="OpenCV" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
 </p>
 
 ### Infraestrutura, DevOps & Cloud
 <p align="left">
-  <img align="center" alt="GCP" title="GCP" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
-  <img align="center" alt="Docker" title="Docker" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-  <img align="center" alt="Firebase" title="Firebase" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
-  <img align="center" alt="GitHub Actions" title="GitHub Actions" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
-  <img align="center" alt="Git" title="Git" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img align="center" alt="Linux" title="Linux" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+  <img align="center" alt="GCP" title="GCP" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
+  <img align="center" alt="Docker" title="Docker" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
+  <img align="center" alt="Firebase" title="Firebase" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
+  <img align="center" alt="GitHub Actions" title="GitHub Actions" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg">
+  <img align="center" alt="Git" title="Git" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+  <img align="center" alt="Linux" title="Linux" height="45px" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
 </p>
 
 ## Projeto em Destaque
