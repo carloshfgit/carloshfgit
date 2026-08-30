@@ -45,6 +45,14 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
   <img align="center" alt="C++" title="C++" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </p>
 
+### I.A, Machine Learning & Data Science
+<p align="left">
+  <img align="center" alt="PyTorch" title="PyTorch" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
+  <img align="center" alt="Pandas" title="Pandas" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Numpy" title="Numpy" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="OpenCV" title="OpenCV" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg">
+</p>
+
 ### Infraestrutura, DevOps & Cloud
 <p align="left">
   <img align="center" alt="GCP" title="GCP" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg">
