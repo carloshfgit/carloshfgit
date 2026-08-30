@@ -48,9 +48,9 @@ Sou graduando em **Engenharia de Software** na **Universidade de Brasília (UnB)
 ### I.A, Machine Learning & Data Science
 <p align="left">
   <img align="center" alt="PyTorch" title="PyTorch" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Pandas" title="Pandas" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Pandas" title="Pandas" height="30px" width="40px" src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg?color=%23FFFFFF">
   <img align="center" alt="Numpy" title="Numpy" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
-  <img align="center" alt="OpenCV" title="OpenCV" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg">
+  <img align="center" alt="OpenCV" title="OpenCV" height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg">
 </p>
 
 ### Infraestrutura, DevOps & Cloud
